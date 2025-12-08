@@ -13,7 +13,7 @@
     "@arcjet/next": "file:../../arcjet-next",
     "next": "^15",
     "react": "^19",
-    "react-dom": "^19"
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
