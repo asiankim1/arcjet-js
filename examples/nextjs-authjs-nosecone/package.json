@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@nosecone/next": "file:../../nosecone-next",
-    "next": "^15",
+    "next": "^16.1.5",
     "next-auth": "beta",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
