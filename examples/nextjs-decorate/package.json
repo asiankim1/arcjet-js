@@ -12,7 +12,7 @@
   "dependencies": {
     "@arcjet/decorate": "file:../../decorate",
     "@arcjet/next": "file:../../arcjet-next",
-    "next": "^15",
+    "next": "^16.1.5",
     "react": "^19",
     "react-dom": "^19"
   },
