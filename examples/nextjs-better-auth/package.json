@@ -13,7 +13,7 @@
     "@arcjet/next": "file:../../arcjet-next",
     "better-auth": "^1",
     "better-sqlite3": "^12",
-    "next": "^15",
+    "next": "^16.1.5",
     "react": "^19",
     "react-dom": "^19"
   },
